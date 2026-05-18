@@ -1,19 +1,26 @@
-# Nishant Sinha — Developer Portfolio
+<div align="center">
+  <img src="public/nishant-avatar.png" width="140" alt="Nishant Avatar" />
 
-![Portfolio Preview](public/nishant-avatar.png)
+  # Nishant Sinha — Developer Portfolio
 
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-B600A8?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-portfolio-seven-blond.vercel.app)
-[![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-[![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-[![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion)
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit%20Site-B600A8?style=for-the-badge&logo=vercel&logoColor=white)](https://nishant-portfolio-seven-blond.vercel.app)
+  [![React](https://img.shields.io/badge/React%2019-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+  [![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
+  [![Framer Motion](https://img.shields.io/badge/Framer%20Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)](https://www.framer.com/motion)
+
+  **A builder driven by crafting smart apps and AI tools that leave a mark.**
+
+</div>
 
 ---
 
 ## Overview
 
 A fully custom developer portfolio built to showcase my projects, skills, and experience as an iOS & AI developer. Designed with a dark cinematic aesthetic, fluid animations, and a focus on performance across all devices.
+
+> Built with React 19, TypeScript, Vite, Tailwind CSS, and Framer Motion. Deployed on Vercel.
 
 ---
 
@@ -109,7 +116,7 @@ Open [http://localhost:5173](http://localhost:5173) in your browser.
 
 ## Deployment
 
-This project is deployed on **Vercel**. Any push to `main` triggers an automatic deployment.
+This project is deployed on **Vercel**. Any push to `main` triggers an automatic redeployment.
 
 ```bash
 # Build for production
@@ -120,10 +127,16 @@ npm run build
 
 ## Connect
 
+<div align="center">
+
 [![Email](https://img.shields.io/badge/Email-nishantsinha7122002%40gmail.com-D400C4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishantsinha7122002@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nishant%20Sinha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nishant-sinha-0a1130319)
 [![GitHub](https://img.shields.io/badge/GitHub-NishantSinha7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NishantSinha7)
 
+</div>
+
 ---
 
-© 2025 Nishant Sinha
+<div align="center">
+  © 2025 Nishant Sinha
+</div>
