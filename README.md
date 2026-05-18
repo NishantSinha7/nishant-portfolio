@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/nishant-avatar.png" width="140" alt="Nishant Avatar" />
+  <img src="public/nishant-avatar.png" width="440" alt="Nishant Avatar" />
 
   # Nishant Sinha — Developer Portfolio
 
