@@ -16,6 +16,17 @@
 
 ---
 
+## Preview
+
+<div align="center">
+  <img src="public/screenshot-hero.png" width="100%" alt="Hero Section" />
+  <br/><br/>
+  <img src="public/screenshot-skills.png" width="49%" alt="About Section" />
+  <img src="public/screenshot-projects.png" width="49%" alt="Projects Section" />
+</div>
+
+---
+
 ## Overview
 
 A fully custom developer portfolio built to showcase my projects, skills, and experience as an iOS & AI developer. Designed with a dark cinematic aesthetic, fluid animations, and a focus on performance across all devices.
