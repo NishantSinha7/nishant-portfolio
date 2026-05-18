@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+html,
+body,
+#root {
+  background-color: #0C0C0C;
+  font-family: 'Kanit', sans-serif;
+}
+
+.hero-heading {
+  background: linear-gradient(180deg, #646973 0%, #BBCCD7 100%);
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@keyframes scanBracketPulse {
+  0%, 100% { opacity: 0.85; }
+  50%       { opacity: 0.35; }
+}
+.scan-bracket-pulse {
+  animation: scanBracketPulse 3s ease-in-out infinite;
+}
+
+@keyframes scanTextFlicker {
+  0%, 90%, 100% { opacity: 0.9; }
+  92%, 97%      { opacity: 0.2; }
+}
+.scan-text-flicker {
+  animation: scanTextFlicker 4s steps(1) infinite;
+}
